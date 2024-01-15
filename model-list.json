@@ -3,11 +3,13 @@
   "models": [
     {
       "name": "phi-2",
-      "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/resolve/main/mistral-7b-instruct-v0.1.Q2_K.gguf?download=true"
+      "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q2_K.gguf?download=true",
+      "size": "1170000000"
     },
     {
       "name": "mixtral",
-      "url": "https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/resolve/main/mistral-7b-v0.1.Q2_K.gguf?download=true"
+      "url": "https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/resolve/main/mistral-7b-v0.1.Q2_K.gguf?download=true",
+      "size": "3083097760"
     }
   ]
 }
