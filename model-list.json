@@ -13,9 +13,9 @@
       "size": "3083097760"
     },
     {
-      "name": "youtube",
-      "url": "https://huggingface.co/prajjwal1/bert-tiny/resolve/main/pytorch_model.bin?download=true",
-      "size": "17800000"
+      "name": "tinyllama-1.1b",
+      "url": "https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF/resolve/main/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf?download=true",
+      "size": "669000000"
     }
   ]
 }
