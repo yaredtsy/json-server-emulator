@@ -6,7 +6,6 @@
       "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q8_0.gguff?download=true",
       "size": "2960000000"
     },
-
     {
       "name": "mixtral",
       "url": "https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF/resolve/main/mistral-7b-v0.1.Q2_K.gguf?download=true",
